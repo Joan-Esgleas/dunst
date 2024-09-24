@@ -1,6 +1,7 @@
 [global]
   font = "JetBrainsMonoNerdFont"
 
+
 	# Allow a small subset of html markup:
 	# <b>bold</b>
 	# <i>italic</i>
