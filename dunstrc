@@ -179,21 +179,21 @@
 
 [urgency_low]
 	timeout = 2
-	background = "#212840"
+    background = "#21284085";
 	foreground = "#CDD6F4"
 	frame_color = "#325870" 
 	highlight = "#7ba5dd"
 
 [urgency_normal]
 	timeout = 2
-	background = "#212840"
+    background = "#21284085";
 	foreground = "#CDD6F4"
 	frame_color = "#325870" 
 	highlight = "#7ba5dd"
 
 [urgency_critical]
 	timeout = 6
-	background = "#212840"
+    background = "#21284085";
 	foreground = "#CDD6F4"
 	frame_color = "#325870" 
 	highlight = "#ee6a70"
